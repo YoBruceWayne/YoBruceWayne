@@ -4,14 +4,14 @@
 <a href="https://www.linkedin.com/in/darcyvbracken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="D'Arcy Vous Bracken" height="30" width="40" /></a>
 </p>
 
-## 🛡️ About Me
+## About Me
 I am a dedicated **Cybersecurity Student** currently pursuing a BS in Cybersecurity and Information Assurance. I am passionate about securing digital landscapes and am actively building my skills in Python, network security, and threat analysis.
 
 - 🔭 I’m currently working on **Python automation scripts** and **CompTIA A+** labs.
 - 🌱 I’m currently learning **Network Security and Incident Response**.
 - 🥅 Goal: To transition into a **Security Operations Center (SOC)** as a Tier 1 Analyst.
 
-## 🛠️ Tech Stack:
+## Tech Stack:
 
 ### **VCS & Productivity**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
