@@ -1,5 +1,11 @@
 # Hello, I'm D'Arcy
 
+<p align="center">
+  <img src="YOUR_IMAGE_PATH/STG_vSnap-ezgif.com-video-to-gif-converter.gif" alt="System Snapshot" width="500">
+</p>
+
+<h3 align="center">System State: STG v.Snap Verified</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/darcyvbracken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="D'Arcy Vous Bracken" height="30" width="40" /></a>
 </p>
