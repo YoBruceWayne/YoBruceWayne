@@ -30,7 +30,7 @@ I'm a cybersecurity student who likes breaking things (safely) and figuring out 
 * **Home Lab:** Built an isolated penetration testing lab using UTM, Kali Linux, and VulnHub VMs — including a full Mr. Robot CTF environment.
 * **Scripting:** Writing Python and Bash scripts to automate vulnerability scanning and network reconnaissance.
 
-[![Check out my project](https://img.shields.io/badge/🔐%20Hacking%20Lab-View%20Project-blue?style=for-the-badge)](https://github.com/YoBruceWayne/hacking-lab)
+[![Check out my project](https://img.shields.io/badge/🔐%20Hacking%20Lab-View%20Project-blue?style=for-the-badge)](https://github.com/darcybracken/hacking-lab)
 
 #
 
