@@ -25,9 +25,9 @@ I'm a cybersecurity student who likes breaking things (safely) and figuring out 
 
 ### 🎯 Current Focus & Latest Projects
 
-* **CompTIA Security+ / CEH Preparation:** Currently studying for industry-standard certifications.
-* **CTF Challenges:** Regularly participating in HackTheBox and TryHackMe rooms to sharpen my practical skills.
-* **Home Lab:** Built an isolated penetration testing lab on Apple Silicon (M4) using UTM, Kali Linux, and VulnHub VMs — including a full Mr. Robot CTF environment.
+* **CompTIA A+ / CEH Preparation:** Currently studying for industry-standard certifications.
+* **CTF Challenges:** Regularly participating in HackTheBox rooms to sharpen my practical skills.
+* **Home Lab:** Built an isolated penetration testing lab using UTM, Kali Linux, and VulnHub VMs — including a full Mr. Robot CTF environment.
 * **Scripting:** Writing Python and Bash scripts to automate vulnerability scanning and network reconnaissance.
 
 [![Check out my project](https://img.shields.io/badge/🔐%20Hacking%20Lab-View%20Project-blue?style=for-the-badge)](https://github.com/YoBruceWayne/hacking-lab)
