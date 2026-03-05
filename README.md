@@ -1,9 +1,11 @@
 # 🏄‍♂️ D'Arcy
 
 
-I'm a dedicated cybersecurity student, CTF enthusiast, Linux lover, and continuous learner diving deep into the world of information security, network defense, and penetration testing.
+I'm a cybersecurity student who likes breaking things (safely) and figuring out how they work. Most of my time goes into CTFs, Linux, and building out my home lab.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darcyvbracken/)
+
 
 ---
 
@@ -23,10 +25,10 @@ I'm a dedicated cybersecurity student, CTF enthusiast, Linux lover, and continuo
 
 * **CompTIA Security+ / CEH Preparation:** Currently studying for industry-standard certifications.
 * **CTF Challenges:** Regularly participating in HackTheBox and TryHackMe rooms to sharpen my practical skills.
-* **Home Lab:** Building an Active Directory home lab to practice offensive and defensive security techniques in a safe environment.
+* **Home Lab:** Built an isolated penetration testing lab on Apple Silicon (M4) using UTM, Kali Linux, and VulnHub VMs — including a full Mr. Robot CTF environment.
 * **Scripting:** Writing Python and Bash scripts to automate vulnerability scanning and network reconnaissance.
-* [*[Check out my project]*](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
+[![Check out my project](https://img.shields.io/badge/🔐%20Hacking%20Lab-View%20Project-blue?style=for-the-badge)](https://github.com/YoBruceWayne/hacking-lab)
 
 #
 
