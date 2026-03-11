@@ -1,11 +1,8 @@
 # 🏄‍♂️ D'Arcy
-
-
 I'm a cybersecurity student who likes breaking things (safely) and figuring out how they work. Most of my time goes into CTFs, Linux, and building out my home lab.
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darcyvbracken/)
-
+![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-E31837?style=for-the-badge&logo=comptia&logoColor=white)
 
 ---
 
@@ -25,7 +22,6 @@ I'm a cybersecurity student who likes breaking things (safely) and figuring out 
 
 ### 🎯 Current Focus & Latest Projects
 
-* **CompTIA A+ / CEH Preparation:** Currently studying for industry-standard certifications.
 * **CTF Challenges:** Regularly participating in HackTheBox rooms to sharpen my practical skills.
 * **Home Lab:** Built an isolated penetration testing lab using UTM, Kali Linux, and VulnHub VMs — including a full Mr. Robot CTF environment.
 * **Scripting:** Writing Python and Bash scripts to automate vulnerability scanning and network reconnaissance.
