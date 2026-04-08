@@ -22,11 +22,9 @@ I'm a cybersecurity student who likes breaking things (safely) and figuring out 
 
 ### 🎯 Current Focus & Latest Projects
 
-* **CTF Challenges:** Regularly participating in HackTheBox rooms to sharpen my practical skills.
-* **Home Lab:** Built an isolated penetration testing lab using UTM, Kali Linux, and VulnHub VMs — including a full Mr. Robot CTF environment.
-* **Scripting:** Writing Python and Bash scripts to automate vulnerability scanning and network reconnaissance.
-
-[![Check out my project](https://img.shields.io/badge/🔐%20Hacking%20Lab-View%20Project-blue?style=for-the-badge)](https://github.com/darcybracken/hacking-lab)
+* **Security Scripting:** Built a [Python Security Tools](https://github.com/darcybracken/Python-Security-tools) collection — TCP port scanner, security log parser, and file integrity checker, all using the standard library with zero dependencies.
+* **Home Lab:** Built an [isolated penetration testing lab](https://github.com/darcybracken/hacking-lab) on Apple Silicon using UTM, Kali Linux, and VulnHub VMs. Configured host-only networking for full isolation, converted x86 disk images for ARM emulation, and documented the full setup including troubleshooting.
+* **CTF Challenges:** Regularly participating in HackTheBox rooms to sharpen practical skills.
 
 #
 
