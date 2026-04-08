@@ -1,30 +1,31 @@
 # 🏄‍♂️ D'Arcy
-I'm a cybersecurity student who likes breaking things (safely) and figuring out how they work. Most of my time goes into CTFs, Linux, and building out my home lab.
+Cybersecurity student building hands-on experience in vulnerability management, security operations, and GRC. Background in B2B tech sales — I translate technical findings into business language.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darcyvbracken/)
-![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-E31837?style=for-the-badge&logo=comptia&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darcyvbracken/)
+![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-E31837?style=flat&logo=comptia&logoColor=white)
 
 ---
 
-### 🧰 Languages and Tools
+### Tools & Technologies
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B489?style=flat&logo=tenable&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 #
 
-### 🎯 Current Focus & Latest Projects
+### Current Focus & Latest Projects
 
-* **Security Scripting:** Built a [Python Security Tools](https://github.com/darcybracken/Python-Security-tools) collection — TCP port scanner, security log parser, and file integrity checker, all using the standard library with zero dependencies.
-* **Home Lab:** Built an [isolated penetration testing lab](https://github.com/darcybracken/hacking-lab) on Apple Silicon using UTM, Kali Linux, and VulnHub VMs. Configured host-only networking for full isolation, converted x86 disk images for ARM emulation, and documented the full setup including troubleshooting.
-* **CTF Challenges:** Regularly participating in HackTheBox rooms to sharpen practical skills.
+**[Python Security Tools](https://github.com/darcybracken/Python-Security-tools)** — TCP port scanner, security log parser, and file integrity checker. Standard library only, zero dependencies.
+
+**[Hacking Lab](https://github.com/darcybracken/hacking-lab)** — Isolated penetration testing environment on Apple Silicon using UTM, Kali Linux, and VulnHub VMs with host-only networking.
 
 #
 
