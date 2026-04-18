@@ -1,5 +1,5 @@
 # 🏄‍♂️ D'Arcy
-Cybersecurity student building hands-on experience in vulnerability management, security operations, and GRC. Background in B2B tech sales — I translate technical findings into business language.
+Cybersecurity student gaining practical experience in vulnerability management, security operations, and GRC.  My background in B2B tech sales involves translating technical insights into business-friendly language.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darcyvbracken/)
 ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-E31837?style=flat&logo=comptia&logoColor=white)
@@ -23,9 +23,9 @@ Cybersecurity student building hands-on experience in vulnerability management, 
 
 ### Current Focus & Latest Projects
 
-**[Python Security Tools](https://github.com/darcybracken/Python-Security-tools)** — TCP port scanner, security log parser, and file integrity checker. Standard library only, zero dependencies.
+**[Python Security Tools](https://github.com/darcybracken/Python-Security-tools)** - TCP port scanner, security log parser, and file integrity checker. Standard library only, zero dependencies.
 
-**[Hacking Lab](https://github.com/darcybracken/hacking-lab)** — Isolated penetration testing environment on Apple Silicon using UTM, Kali Linux, and VulnHub VMs with host-only networking.
+**[Hacking Lab](https://github.com/darcybracken/hacking-lab)** - Isolated penetration testing environment on Apple Silicon using UTM, Kali Linux, and VulnHub VMs with host-only networking.
 
 #
 
