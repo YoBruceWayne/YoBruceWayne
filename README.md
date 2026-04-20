@@ -28,7 +28,7 @@ Cybersecurity student gaining practical experience in vulnerability management, 
 
 **[Lab-003: ISMS](https://github.com/darcybracken/isms-nist-csf-fincorp)** - Full NIST CSF 2.0 ISMS build for a mock financial services org. Covers governance policy, multi-framework crosswalk (SOC 2, ISO 27001, GLBA), security architecture with DFD, and incident response planning.
 
-**[isms-nist-csf-fincorp](https://github.com/darcybracken/ isms-nist-csf-fincorp)** - Full NIST CSF 2.0 ISMS build for a mock financial services org. Covers governance policy, multi-framework crosswalk (SOC 2, ISO 27001, GLBA), security architecture with DFD, and incident response planning.
+**[isms-nist-csf-fincorp](https://github.com/darcybracken/isms-nist-csf-fincorp)** - Full NIST CSF 2.0 ISMS build for a mock financial services org. Covers governance policy, multi-framework crosswalk (SOC 2, ISO 27001, GLBA), security architecture with DFD, and incident response planning.
 
 #
 
