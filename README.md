@@ -26,7 +26,7 @@ Cybersecurity student gaining practical experience in vulnerability management, 
 
 **[Python Security Tools](https://github.com/darcybracken/Python-Security-tools)** - TCP port scanner, security log parser, and file integrity checker. Standard library only, zero dependencies.
 
-**[Hacking Lab](https://github.com/darcybracken/hacking-lab)** - Isolated penetration testing environment on Apple Silicon using UTM, Kali Linux, and VulnHub VMs with host-only networking.
+**[Lab-003: ISMS](https://github.com/darcybracken/isms-nist-csf-fincorp)** - Full NIST CSF 2.0 ISMS build for a mock financial services org. Covers governance policy, multi-framework crosswalk (SOC 2, ISO 27001, GLBA), security architecture with DFD, and incident response planning.
 
 **[isms-nist-csf-fincorp](https://github.com/darcybracken/ isms-nist-csf-fincorp)** - Full NIST CSF 2.0 ISMS build for a mock financial services org. Covers governance policy, multi-framework crosswalk (SOC 2, ISO 27001, GLBA), security architecture with DFD, and incident response planning.
 
