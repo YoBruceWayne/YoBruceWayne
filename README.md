@@ -8,6 +8,7 @@ Cybersecurity student gaining practical experience in vulnerability management, 
 
 ### Tools & Technologies
 
+![NIST CSF](https://img.shields.io/badge/NIST%20CSF%202.0-GRC-0033A0?style=flat&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00B489?style=flat&logo=tenable&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
@@ -26,6 +27,8 @@ Cybersecurity student gaining practical experience in vulnerability management, 
 **[Python Security Tools](https://github.com/darcybracken/Python-Security-tools)** - TCP port scanner, security log parser, and file integrity checker. Standard library only, zero dependencies.
 
 **[Hacking Lab](https://github.com/darcybracken/hacking-lab)** - Isolated penetration testing environment on Apple Silicon using UTM, Kali Linux, and VulnHub VMs with host-only networking.
+
+**[Lab-003: ISMS](https://github.com/darcybracken/Lab-003-ISMS)** - Full NIST CSF 2.0 ISMS build for a mock financial services org. Covers governance policy, multi-framework crosswalk (SOC 2, ISO 27001, GLBA), security architecture with DFD, and incident response planning.
 
 #
 
